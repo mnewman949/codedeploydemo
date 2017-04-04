@@ -7,4 +7,4 @@
 10
 11
 */
-php phpinfo(); ?>
+//php phpinfo(); ?>
